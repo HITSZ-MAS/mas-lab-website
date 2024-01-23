@@ -109,6 +109,20 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:LI9QrySNdTsC
+  title: "Distributed leader\u2013follower affine formation maneuver control for high-order\
+    \ multiagent systems"
+  authors:
+  - L Chen
+  - J Mei
+  - C Li
+  - G Ma
+  publisher: IEEE Transactions on Automatic Control 65 (11), 4941-4948, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:LI9QrySNdTsC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:hMsQuOkrut0C
   title: Distributed attitude coordinated control of multiple spacecraft with attitude
     constraints
@@ -126,17 +140,16 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:LI9QrySNdTsC
-  title: "Distributed leader\u2013follower affine formation maneuver control for high-order\
-    \ multiagent systems"
+- id: tyQm5IkAAAAJ:k8Z6L05lTy4C
+  title: A unified framework for adaptive leaderless consensus of uncertain multiagent
+    systems under directed graphs
   authors:
-  - L Chen
   - J Mei
-  - C Li
-  - G Ma
-  publisher: IEEE Transactions on Automatic Control 65 (11), 4941-4948, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:LI9QrySNdTsC
+  - W Ren
+  - Y Song
+  publisher: IEEE Transactions on Automatic Control 66 (12), 6179-6186, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:k8Z6L05lTy4C
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -164,19 +177,6 @@
   publisher: 2014 American Control Conference, 802-807, 2014
   date: '2014-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:tkaPQYYpVKoC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:k8Z6L05lTy4C
-  title: A unified framework for adaptive leaderless consensus of uncertain multiagent
-    systems under directed graphs
-  authors:
-  - J Mei
-  - W Ren
-  - Y Song
-  publisher: IEEE Transactions on Automatic Control 66 (12), 6179-6186, 2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:k8Z6L05lTy4C
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -284,33 +284,6 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:KlAtU1dfN6UC
-  title: Containment control for networked unknown Lagrangian systems with multiple
-    dynamic leaders under a directed graph
-  authors:
-  - J Mei
-  - W Ren
-  - B Li
-  - G Ma
-  publisher: 2013 American Control Conference, 522-527, 2013
-  date: '2013-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:KlAtU1dfN6UC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:LkGwnXOMwfcC
-  title: Containment control for multiple unknown second-order nonlinear systems under
-    a directed graph based on neural networks
-  authors:
-  - M Jie
-  - R Wei
-  - M Guangfu
-  publisher: Proceedings of the 31st chinese control conference, 6450-6455, 2012
-  date: '2012-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:LkGwnXOMwfcC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:M7yex6snE4oC
   title: Leaderless consensus for second-order inertia uncertain multi-agent systems
     under directed graphs without relative velocity information
@@ -341,6 +314,33 @@
     2020
   date: '2020-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:MLfJN-KU85MC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:KlAtU1dfN6UC
+  title: Containment control for networked unknown Lagrangian systems with multiple
+    dynamic leaders under a directed graph
+  authors:
+  - J Mei
+  - W Ren
+  - B Li
+  - G Ma
+  publisher: 2013 American Control Conference, 522-527, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:KlAtU1dfN6UC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:LkGwnXOMwfcC
+  title: Containment control for multiple unknown second-order nonlinear systems under
+    a directed graph based on neural networks
+  authors:
+  - M Jie
+  - R Wei
+  - M Guangfu
+  publisher: Proceedings of the 31st chinese control conference, 6450-6455, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:LkGwnXOMwfcC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -422,6 +422,18 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:SpbeaW3--B0C
+  title: Adaptive Bipartite Leaderless Consensus of Multi-Agent Systems with Uncertain
+    MIMO Dynamics over a Signed Directed Graph
+  authors:
+  - C Tian
+  - J Mei
+  publisher: 'IEEE Transactions on Circuits and Systems II: Express Briefs, 2023'
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:SpbeaW3--B0C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:p__nRnzSRKYC
   title: Weighted consensus for multiple Lagrangian systems under a directed graph
     without using neighbors' velocity measurements
@@ -444,6 +456,18 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:b1wdh0AR-JQC
+  title: Decentralized Event-triggered Communication for Consensus of Uncertain Multi-agent
+    Systems
+  authors:
+  - Q Bai
+  - J Mei
+  publisher: 2019 Chinese Control Conference (CCC), 6241-6245, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:b1wdh0AR-JQC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:TIZ-Mc8IlK0C
   title: Fully distributed consensus for second-order uncertain multi-agent systems
     under a directed graph
@@ -456,30 +480,6 @@
     \ and \u2026, 2018"
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:TIZ-Mc8IlK0C
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:SpbeaW3--B0C
-  title: Adaptive Bipartite Leaderless Consensus of Multi-Agent Systems with Uncertain
-    MIMO Dynamics over a Signed Directed Graph
-  authors:
-  - C Tian
-  - J Mei
-  publisher: 'IEEE Transactions on Circuits and Systems II: Express Briefs, 2023'
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:SpbeaW3--B0C
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:b1wdh0AR-JQC
-  title: Decentralized Event-triggered Communication for Consensus of Uncertain Multi-agent
-    Systems
-  authors:
-  - Q Bai
-  - J Mei
-  publisher: 2019 Chinese Control Conference (CCC), 6241-6245, 2019
-  date: '2019-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:b1wdh0AR-JQC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -518,6 +518,19 @@
   publisher: IEEE Transactions on Control of Network Systems, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Dip1O2bNi0gC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:S16KYo8Pm5AC
+  title: Egocentric Two-Frame Pedestrian Trajectory Prediction Algorithm Based on
+    a Panoramic Camera
+  authors:
+  - J Long
+  - J Mei
+  - G Ma
+  publisher: IEEE Transactions on Instrumentation and Measurement 72, 1-13, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:S16KYo8Pm5AC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -631,15 +644,84 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:edDO8Oi4QzsC
-  title: A Numerical Method for H2 Filtering of Linear Systems with Distributed Delays
+- id: tyQm5IkAAAAJ:0N-VGjzr574C
+  title: Fully Distributed Adaptive Consensus of Multiple Manipulators with Elastic
+    Joints Under a Directed Graph
+  authors:
+  - X Meng
+  - J Mei
+  - A Wu
+  - G Ma
+  publisher: 2023 62nd IEEE Conference on Decision and Control (CDC), 2409-2414, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:0N-VGjzr574C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:foquWX3nUaYC
+  title: Estimating the delay margin for stability of linear delay systems by the
+    weighted matrix measure
   authors:
   - R Hu
   - J Mei
   - G Ma
-  publisher: International Journal of Control, 1, 2023
+  publisher: International Journal of Robust and Nonlinear Control 33 (18), 11125-11139,
+    2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:foquWX3nUaYC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:edDO8Oi4QzsC
+  title: A numerical method for filtering of linear systems with distributed delays
+  authors:
+  - R Hu
+  - J Mei
+  - G Ma
+  publisher: International Journal of Control, 1-12, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:edDO8Oi4QzsC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:FPJr55Dyh1AC
+  title: Fully Distributed Consensus of Multiple Euler-Lagrange Systems under Switching
+    Directed Graphs Using Only Position Measurements
+  authors:
+  - X Meng
+  - J Mei
+  - Z Miao
+  - A Wu
+  - G Ma
+  publisher: IEEE Transactions on Automatic Control, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:FPJr55Dyh1AC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:ClCfbGk0d_YC
+  title: State response and controllability for con-number-valued systems with applications
+    to a class of quantum systems
+  authors:
+  - AG Wu
+  - Z Dong
+  - Z Miao
+  - J Mei
+  publisher: Journal of the Franklin Institute 360 (17), 13778-13797, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:ClCfbGk0d_YC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:HbR8gkJAVGIC
+  title: "A numerical method for \u210B 2 H _2 control of linear delay systems"
+  authors:
+  - R Hu
+  - J Mei
+  - G Ma
+  publisher: Optimal Control Applications and Methods 44 (6), 3099-3113, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:HbR8gkJAVGIC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -720,31 +802,6 @@
   publisher: 2023 American Control Conference (ACC), 1165-1170, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:xtoqd-5pKcoC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:HbR8gkJAVGIC
-  title: "A numerical method for \u210B 2 H _2 control of linear delay systems"
-  authors:
-  - R Hu
-  - J Mei
-  - G Ma
-  publisher: Optimal Control Applications and Methods, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:HbR8gkJAVGIC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:S16KYo8Pm5AC
-  title: Egocentric Two-Frame Pedestrian Trajectory Prediction Algorithm Based on
-    a Panoramic Camera
-  authors:
-  - J Long
-  - J Mei
-  - G Ma
-  publisher: IEEE Transactions on Instrumentation and Measurement 72, 1-13, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:S16KYo8Pm5AC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -849,19 +906,6 @@
   publisher: Proceedings of the 31st Chinese Control Conference, 6439-6444, 2012
   date: '2012-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:ufrVoPGSRksC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:foquWX3nUaYC
-  title: Estimating the delay margin for stability of linear delay systems by the
-    weighted matrix measure
-  authors:
-  - R Hu
-  - J Mei
-  - G Ma
-  publisher: International Journal of Robust and Nonlinear Control, 0
-  date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:foquWX3nUaYC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
