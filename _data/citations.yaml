@@ -1,155 +1,1396 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: tyQm5IkAAAAJ:9yKSN-GCB0IC
+  title: Distributed containment control for Lagrangian networks with parametric uncertainties
+    under a directed graph
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+  - J Mei
+  - W Ren
+  - G Ma
+  publisher: Automatica, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:9yKSN-GCB0IC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:u5HHmVD_uO8C
+  title: Distributed coordinated tracking with a dynamic leader for multiple Euler-Lagrange
+    systems
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+  - J Mei
+  - W Ren
+  - G Ma
+  publisher: Automatic Control, IEEE Transactions on 56 (6), 1415-1421, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:u5HHmVD_uO8C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:kzcrU_BdoSEC
+  title: Distributed consensus of second-order multi-agent systems with heterogeneous
+    unknown inertias and control gains under a directed graph
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+  - J Mei
+  - W Ren
+  - J Chen
+  publisher: IEEE Transactions on Automatic Control 61 (8), 2019-2034, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:kzcrU_BdoSEC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:roLk4NBRz8UC
+  title: Distributed coordination for second-order multi-agent systems with nonlinear
+    dynamics using only relative position measurements
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - J Mei
+  - W Ren
+  - G Ma
+  publisher: Automatica 49 (5), 1419-1427, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:roLk4NBRz8UC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:0EnyYjriUFMC
+  title: "Distributed adaptive coordination for multiple Lagrangian systems under\
+    \ a directed graph without using neighbors\u2019 velocity information"
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - J Mei
+  - W Ren
+  - J Chen
+  - G Ma
+  publisher: Automatica 49 (6), 1723-1731, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:0EnyYjriUFMC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:Fu2w8maKXqMC
+  title: Fully distributed flocking with a moving leader for Lagrange networks with
+    parametric uncertainties
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+  - S Ghapani
+  - J Mei
+  - W Ren
+  - Y Song
+  publisher: Automatica 67, 67-76, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Fu2w8maKXqMC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:eq2jaN3J8jMC
+  title: Distributed containment control for multiple unknown second-order nonlinear
+    systems with application to networked Lagrangian systems
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - J Mei
+  - W Ren
+  - B Li
+  - G Ma
+  publisher: IEEE transactions on neural networks and learning systems 26 (9), 1885-1899,
+    2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:eq2jaN3J8jMC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:2KloaMYe4IUC
+  title: Distributed coordination of multiple unknown Euler-Lagrange systems
+  authors:
+  - Z Feng
+  - G Hu
+  - W Ren
+  - WE Dixon
+  - J Mei
+  publisher: IEEE Transactions on Control of Network Systems 5 (1), 55-66, 2016
+  date: '2016-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:2KloaMYe4IUC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:hMsQuOkrut0C
+  title: Distributed attitude coordinated control of multiple spacecraft with attitude
+    constraints
+  authors:
+  - D Li
+  - G Ma
+  - C Li
+  - W He
+  - J Mei
+  - SS Ge
+  publisher: IEEE Transactions on Aerospace and Electronic Systems 54 (5), 2233-2245,
+    2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:hMsQuOkrut0C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:LI9QrySNdTsC
+  title: "Distributed leader\u2013follower affine formation maneuver control for high-order\
+    \ multiagent systems"
+  authors:
+  - L Chen
+  - J Mei
+  - C Li
+  - G Ma
+  publisher: IEEE Transactions on Automatic Control 65 (11), 4941-4948, 2020
   date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:LI9QrySNdTsC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:epqYDVWIO7EC
+  title: "Adaptive cooperative formation\u2010containment control for networked Euler\u2013\
+    Lagrange systems without using relative velocity information"
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - LM Chen
+  - CJ Li
+  - J Mei
+  - GF Ma
+  publisher: IET Control Theory & Applications 11 (9), 1450-1458, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:epqYDVWIO7EC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:tkaPQYYpVKoC
+  title: Consensus of second-order heterogeneous multi-agent systems under a directed
+    graph
+  authors:
+  - J Mei
+  - W Ren
+  - J Chen
+  publisher: 2014 American Control Conference, 802-807, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:tkaPQYYpVKoC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:k8Z6L05lTy4C
+  title: A unified framework for adaptive leaderless consensus of uncertain multiagent
+    systems under directed graphs
+  authors:
+  - J Mei
+  - W Ren
+  - Y Song
+  publisher: IEEE Transactions on Automatic Control 66 (12), 6179-6186, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:k8Z6L05lTy4C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:kuK5TVdYjLIC
+  title: Distributed consensus for multiple Lagrangian systems with parametric uncertainties
+    and external disturbances under directed graphs
+  authors:
+  - J Mei
+  publisher: IEEE Transactions on Control of Network Systems 7 (2), 648-659, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:kuK5TVdYjLIC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:Y0pCki6q_DkC
+  title: Distributed containment control for multiple nonlinear systems with identical
+    dynamics
+  authors:
+  - J Mei
+  - W Ren
+  - G Ma
+  publisher: Proceedings of the 30th Chinese Control Conference, 6544-6549, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Y0pCki6q_DkC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:1yQoGdGgb4wC
+  title: Consensus of linear multi-agent systems with fully distributed control gains
+    under a general directed graph
+  authors:
+  - J Mei
+  - W Ren
+  - J Chen
+  - BDO Anderson
+  publisher: 53rd IEEE Conference on Decision and Control, 2993-2998, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:1yQoGdGgb4wC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:WA5NYHcadZ8C
+  title: Containment control for multiple Euler-Lagrange systems with parametric uncertainties
+    in directed networks
+  authors:
+  - J Mei
+  - W Ren
+  - G Ma
+  publisher: Proceedings of the 2011 American control conference, 2186-2191, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:WA5NYHcadZ8C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:2osOgNQ5qMEC
+  title: Adaptive coordinated tracking for networked Euler-Lagrange systems under
+    a directed graph
+  authors:
+  - J Mei
+  - HB Zhang
+  - GF Ma
+  publisher: Acta Automatica Sinca 37 (5), 596-603, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:2osOgNQ5qMEC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:_B80troHkn4C
+  title: Flocking with a moving leader for multiple uncertain lagrange systems
+  authors:
+  - S Ghapani
+  - J Mei
+  - W Ren
+  publisher: 2014 American Control Conference, 3189-3194, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:_B80troHkn4C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:kz9GbA2Ns4gC
+  title: 'Not only look but infer: Multiple hypothesis clustering of data association
+    inference for semantic SLAM'
+  authors:
+  - T Ran
+  - L Yuan
+  - J Zhang
+  - L He
+  - R Huang
+  - J Mei
+  publisher: IEEE Transactions on Instrumentation and Measurement 70, 1-9, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:kz9GbA2Ns4gC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:Y5dfb0dijaUC
+  title: Distributed coordinated tracking for multiple Euler-Lagrange systems
+  authors:
+  - J Mei
+  - W Ren
+  - G Ma
+  publisher: 49th IEEE Conference on Decision and Control (CDC), 3208-3213, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Y5dfb0dijaUC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:KlAtU1dfN6UC
+  title: Containment control for networked unknown Lagrangian systems with multiple
+    dynamic leaders under a directed graph
+  authors:
+  - J Mei
+  - W Ren
+  - B Li
+  - G Ma
+  publisher: 2013 American Control Conference, 522-527, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:KlAtU1dfN6UC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:LkGwnXOMwfcC
+  title: Containment control for multiple unknown second-order nonlinear systems under
+    a directed graph based on neural networks
+  authors:
+  - M Jie
+  - R Wei
+  - M Guangfu
+  publisher: Proceedings of the 31st chinese control conference, 6450-6455, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:LkGwnXOMwfcC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:M7yex6snE4oC
+  title: Leaderless consensus for second-order inertia uncertain multi-agent systems
+    under directed graphs without relative velocity information
+  authors:
+  - K Tian
+  - Z Guo
+  - J Mei
+  - C Jiang
+  - G Ma
+  publisher: IEEE Transactions on Network Science and Engineering 8 (4), 3417-3429,
+    2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:M7yex6snE4oC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:MLfJN-KU85MC
+  title: "Formation\u2010containment control of networked collision\u2010free Lagrangian\
+    \ systems"
+  authors:
+  - D Li
+  - S Sam Ge
+  - G Ma
+  - W He
+  - J Mei
+  - W Zhang
+  publisher: International Journal of Robust and Nonlinear Control 30 (6), 2399-2412,
+    2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:MLfJN-KU85MC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:7T2F9Uy0os0C
+  title: Weighted consensus for multiple Lagrangian systems under a directed graph
+  authors:
+  - M Jie
+  publisher: 2015 Chinese Automation Congress (CAC), 1064-1068, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:7T2F9Uy0os0C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:gsN89kCJA0AC
+  title: Model reference adaptive consensus for uncertain multi-agent systems under
+    directed graphs
+  authors:
+  - J Mei
+  publisher: 2018 IEEE Conference on Decision and Control (CDC), 6198-6203, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:gsN89kCJA0AC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:KUbvn5osdkgC
+  title: Distributed algorithms for solving a linear equation under a directed graph
+  authors:
+  - Y Tang
+  - J Mei
+  publisher: 2018 37th Chinese Control Conference (CCC), 7193-7198, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:KUbvn5osdkgC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:zYLM7Y9cAGgC
+  title: Adaptive cooperative control for relative orbits of multi-satellite systems
+  authors:
+  - GF Ma
+  - J Mei
+  publisher: Control Theory & Applications 28 (6), 781-787, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:zYLM7Y9cAGgC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:UeHWp8X0CEIC
+  title: Coordinated tracking for nonlinear multi-agent systems under directed networks
+  authors:
+  - GF Ma
+  - J Mei
+  publisher: Control and Decision 26 (12), 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:UeHWp8X0CEIC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:AXPGKjj_ei8C
+  title: Cooperative control of nonlinear multi-agent systems with only relative position
+    measurements
+  authors:
+  - J Mei
+  - W Ren
+  - G Ma
+  publisher: 2012 American Control Conference (ACC), 6614-6619, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:AXPGKjj_ei8C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:Tyk-4Ss8FVUC
+  title: Robust Adaptive Control of Relative Orbit for Nearby Spacecraft
+  authors:
+  - MEI Jie
+  - MA Guang-fu
+  publisher: Journal of Astronautics 10, 009, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Tyk-4Ss8FVUC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:p__nRnzSRKYC
+  title: Weighted consensus for multiple Lagrangian systems under a directed graph
+    without using neighbors' velocity measurements
+  authors:
+  - M Jie
+  publisher: 2017 American Control Conference (ACC), 1353-1357, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:p__nRnzSRKYC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:NJ774b8OgUMC
+  title: Distributed parameter estimation under unreliable directed networks
+  authors:
+  - J Mei
+  - W Ren
+  publisher: 2015 54th IEEE Conference on Decision and Control (CDC), 4284-4289, 2015
+  date: '2015-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:NJ774b8OgUMC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:TIZ-Mc8IlK0C
+  title: Fully distributed consensus for second-order uncertain multi-agent systems
+    under a directed graph
+  authors:
+  - Z Guo
+  - C Jiang
+  - J Mei
+  - G Ma
+  publisher: "2018 15th International Conference on Control, Automation, Robotics\
+    \ and \u2026, 2018"
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:TIZ-Mc8IlK0C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:SpbeaW3--B0C
+  title: Adaptive Bipartite Leaderless Consensus of Multi-Agent Systems with Uncertain
+    MIMO Dynamics over a Signed Directed Graph
+  authors:
+  - C Tian
+  - J Mei
+  publisher: 'IEEE Transactions on Circuits and Systems II: Express Briefs, 2023'
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:SpbeaW3--B0C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:b1wdh0AR-JQC
+  title: Decentralized Event-triggered Communication for Consensus of Uncertain Multi-agent
+    Systems
+  authors:
+  - Q Bai
+  - J Mei
+  publisher: 2019 Chinese Control Conference (CCC), 6241-6245, 2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:b1wdh0AR-JQC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:EYYDruWGBe4C
+  title: Adaptive group consensus for networked Euler-Lagrange systems under a directed
+    graph without relative velocity information
+  authors:
+  - R Cao
+  - J Mei
+  publisher: 2017 36th Chinese Control Conference (CCC), 8765-8770, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:EYYDruWGBe4C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:W7OEmFMy1HYC
+  title: Attitude coordinated tracking for formation spacecraft under a directed graph
+  authors:
+  - H Zhang
+  - J Mei
+  - G Ma
+  publisher: Proceedings of the 30th Chinese Control Conference, 4900-4905, 2011
+  date: '2011-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:W7OEmFMy1HYC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:Dip1O2bNi0gC
+  title: Distributed Constrained Consensus of Multi-Agent Systems With Uncertainties
+    and Disturbances Under Switching Directed Graphs
+  authors:
+  - H Luan
+  - J Mei
+  - AG Wu
+  - G Ma
+  publisher: IEEE Transactions on Control of Network Systems, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Dip1O2bNi0gC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:oNZyr7d5Mn4C
+  title: A Cooperative Kalman Consensus Filter via Indirectly State Vector Fusion
+  authors:
+  - W Chen
+  - J Mei
+  - G Ma
+  - W Wu
+  publisher: 2021 40th Chinese Control Conference (CCC), 5466-5471, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:oNZyr7d5Mn4C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:VaXvl8Fpj5cC
+  title: Consensus of Uncertain Heterogeneous Multi-Agent Systems Under a Directed
+    Graph
+  authors:
+  - K Tian
+  - J Mei
+  publisher: 2020 Chinese Automation Congress (CAC), 6822-6826, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:VaXvl8Fpj5cC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:tuHXwOkdijsC
+  title: Consensus of second-order multi-agent systems with uncertainties using only
+    position measurements under a directed graph
+  authors:
+  - Z Guo
+  - J Mei
+  - G Ma
+  publisher: 2019 IEEE Conference on Control Technology and Applications (CCTA), 184-188,
+    2019
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:tuHXwOkdijsC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:tYavs44e6CUC
+  title: Rotating consensus of the multi-agent system under a directed graph
+  authors:
+  - Q Li
+  - J Mei
+  publisher: 2018 37th Chinese Control Conference (CCC), 7177-7182, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:tYavs44e6CUC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:g3aElNc5_aQC
+  title: Adaptive consensus for second-order uncertain multi-agent systems under a
+    directed graph
+  authors:
+  - C Jiang
+  - J Mei
+  publisher: 2018 Chinese Control And Decision Conference (CCDC), 1335-1340, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:g3aElNc5_aQC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:ILKRHgRFtOwC
+  title: Fully distributed consensus algorithms for double integrators under heterogeneous
+    topologies
+  authors:
+  - J Liang
+  - J Mei
+  publisher: 2017 36th Chinese Control Conference (CCC), 8760-8764, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:ILKRHgRFtOwC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:vbGhcppDl1QC
+  title: Disturbance rejection for leader-follower tracking of linear multi-agent
+    systems under a directed graph
+  authors:
+  - D Yang
+  - J Mei
+  publisher: 2017 36th Chinese Control Conference (CCC), 8754-8759, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:vbGhcppDl1QC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:PELIpwtuRlgC
+  title: Adaptive coordination of second-order multi-agent systems with instinct nonlinear
+    dynamics under a directed graph
+  authors:
+  - J Mei
+  publisher: Proceedings of the 33rd Chinese Control Conference, 1692-1697, 2014
+  date: '2014-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:PELIpwtuRlgC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:_FxGoFyzp5QC
+  title: Cooperative control for relative translation of modular spacecraft without
+    velocity measurements
+  authors:
+  - F Liu
+  - M Guangfu
+  - M Jie
+  publisher: Proceedings of the 31st Chinese Control Conference, 6445-6449, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:_FxGoFyzp5QC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:edDO8Oi4QzsC
+  title: A Numerical Method for H2 Filtering of Linear Systems with Distributed Delays
+  authors:
+  - R Hu
+  - J Mei
+  - G Ma
+  publisher: International Journal of Control, 1, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:edDO8Oi4QzsC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:i2xiXl-TujoC
+  title: Bipartite leaderless position consensus of heterogeneous uncertain multi-agent
+    systems under switching directed graphs
+  authors:
+  - C Tian
+  - K Tian
+  - J Mei
+  - G Ma
+  publisher: Systems & Control Letters 181, 105628, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:i2xiXl-TujoC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:Ug5p-4gJ2f0C
+  title: Scaled Position Consensus of High-Order Uncertain Multiagent Systems Over
+    Switching Directed Graphs
+  authors:
+  - J Mei
+  - K Tian
+  - G Ma
+  publisher: IEEE Transactions on Cybernetics, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Ug5p-4gJ2f0C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:XoXfffV-tXoC
+  title: Matrix-Scaled Consensus for Second-Order Uncertain Multi-Agent Systems Under
+    a Directed Graph
+  authors:
+  - S Chen
+  - K Tian
+  - J Mei
+  publisher: 2023 42nd Chinese Control Conference (CCC), 6111-6116, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:XoXfffV-tXoC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:ruyezt5ZtCIC
+  title: Distributed Optimal Consensus of Multiple Euler-Lagrange Systems Using only
+    Relative Position Measurements Under a Directed Graph
+  authors:
+  - X Meng
+  - J Mei
+  publisher: 2023 42nd Chinese Control Conference (CCC), 6105-6110, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:ruyezt5ZtCIC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:q3CdL3IzO_QC
+  title: Adaptive Consensus for Uncertain MIMO Multi-Agent Systems over a Directed
+    Graph Interacting only Relative Output Information
+  authors:
+  - C Tian
+  - J Mei
+  - G Ma
+  publisher: "2023 2nd Conference on Fully Actuated System Theory and Applications\
+    \ (CFASTA \u2026, 2023"
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:q3CdL3IzO_QC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:xtoqd-5pKcoC
+  title: A Distributed Time-Varying Optimization Algorithm For Networked Lagrangian
+    Agents Generating Continuous Control Torques
+  authors:
+  - Y Ding
+  - H Wang
+  - J Mei
+  - W Ren
+  publisher: 2023 American Control Conference (ACC), 1165-1170, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:xtoqd-5pKcoC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:HbR8gkJAVGIC
+  title: "A numerical method for \u210B 2 H _2 control of linear delay systems"
+  authors:
+  - R Hu
+  - J Mei
+  - G Ma
+  publisher: Optimal Control Applications and Methods, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:HbR8gkJAVGIC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:S16KYo8Pm5AC
+  title: Egocentric Two-Frame Pedestrian Trajectory Prediction Algorithm Based on
+    a Panoramic Camera
+  authors:
+  - J Long
+  - J Mei
+  - G Ma
+  publisher: IEEE Transactions on Instrumentation and Measurement 72, 1-13, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:S16KYo8Pm5AC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:PoWvk5oyLR8C
+  title: Adaptive Leader-following Practical Bipartite Consensus of Uncertain MIMO
+    Dynamical Multi-Agent Systems over a Signed Directed Graph
+  authors:
+  - C Tian
+  - J Mei
+  - G Ma
+  - W Wu
+  publisher: 2022 China Automation Congress (CAC), 5911-5916, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:PoWvk5oyLR8C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:e_rmSamDkqQC
+  title: Adaptive Consensus of Multiple Lagrangian Systems
+  authors:
+  - J Mei
+  publisher: Handbook of Real-Time Computing, 1245-1261, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:e_rmSamDkqQC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:WZBGuue-350C
+  title: Environmental Perception with Spatial Regularization Correlation Filter for
+    Visual Tracking
+  authors:
+  - K Lv
+  - L Yuan
+  - L He
+  - R Huang
+  - J Mei
+  publisher: Displays 70, 102098, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:WZBGuue-350C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:-FonjvnnhkoC
+  title: Adaptive Learning Rate and Spatial Regularization Background Perception Filter
+    for Visual Tracking
+  authors:
+  - K Lv
+  - L Yuan
+  - L He
+  - R Huang
+  - J Mei
+  publisher: CAAI International Conference on Artificial Intelligence, 674-685, 2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:-FonjvnnhkoC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:lmc2jWPfTJgC
+  title: Trajectory Tracking Control for Quadrotors with Applications to UAV Formation
+  authors:
+  - S Hong
+  - J Mei
+  publisher: "2019 IEEE 9th Annual International Conference on CYBER Technology in\
+    \ \u2026, 2019"
+  date: '2019-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:lmc2jWPfTJgC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:L7CI7m0gUJcC
+  title: Fully distributed containment control for second-order nolinear multi-agent
+    systems under a directed graph
+  authors:
+  - Y Wu
+  - J Mei
+  publisher: 2017 36th Chinese Control Conference (CCC), 8748-8753, 2017
+  date: '2017-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:L7CI7m0gUJcC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:Zph67rFs4hoC
+  title: Finite-time consensus control for multiple spacecraft systems under directed
+    communication topology
+  authors:
+  - H Zhang
+  - G Ma
+  - J Mei
+  publisher: Proceedings of the 32nd Chinese Control Conference, 7210-7215, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Zph67rFs4hoC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:ufrVoPGSRksC
+  title: Distributed finite-time attitude regulation control for multiple spacecraft
+    syatems
+  authors:
+  - M Guang-Fu
+  - Z Hai-Bo
+  - M Jie
+  publisher: Proceedings of the 31st Chinese Control Conference, 6439-6444, 2012
+  date: '2012-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:ufrVoPGSRksC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:foquWX3nUaYC
+  title: Estimating the delay margin for stability of linear delay systems by the
+    weighted matrix measure
+  authors:
+  - R Hu
+  - J Mei
+  - G Ma
+  publisher: International Journal of Robust and Nonlinear Control, 0
+  date: ''
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:foquWX3nUaYC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: doi:10.1002/qute.202200165
+  title: Cooperation between Coherent Control and Noises in Quantum Metrology
+  authors:
+  - Yu Chen
+  - Zibo Miao
+  - Haidong Yuan
+  publisher: Advanced Quantum Technologies
+  date: '2023-03-15'
+  link: https://doi.org/gs5zcv
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/photonics10020157
+  title: Time-Varying Engineered Reservoir for the Improved Estimation of Atom-Cavity
+    Coupling Strength
+  authors:
+  - Ye Xia
+  - Weiming Guo
+  - Zibo Miao
+  publisher: Photonics
+  date: '2023-02-02'
+  link: https://doi.org/gs5zcw
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1049/cth2.12363
+  title: "Deterministic submanifolds for the backward\u2010evolving quantum state\
+    \ concerning a monitored qubit"
+  authors:
+  - Zibo Miao
+  - Zigui Zhang
+  - Kai Li
+  - Yu Pan
+  - Alain Sarlette
+  publisher: IET Control Theory &amp; Applications
+  date: '2022-10-13'
+  link: https://doi.org/gs5zcx
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TAC.2023.3332009
+  title: Fully Distributed Consensus of Multiple Euler-Lagrange Systems under Switching
+    Directed Graphs Using Only Position Measurements
+  authors:
+  - Xiangzheng Meng
+  - Jie Mei
+  - Zibo Miao
+  - Aiguo Wu
+  - Guangfu Ma
+  publisher: IEEE Transactions on Automatic Control
+  date: '2023-01-01'
+  link: https://doi.org/gs5zcz
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/en16010416
+  title: Design of Selective TPV Thermal Emitters Based on Bayesian Optimization Nesting
+    Simulated Annealing
+  authors:
+  - Zejia Liu
+  - Zigui Zhang
+  - Peifeng Xie
+  - Zibo Miao
+  publisher: Energies
+  date: '2022-12-29'
+  link: https://doi.org/gs5zc2
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-017-05158-7
+  title: Reaching Agreement in Quantum Hybrid Networks
+  authors:
+  - Guodong Shi
+  - Bo Li
+  - Zibo Miao
+  - Peter M. Dower
+  - Matthew R. James
+  publisher: Scientific Reports
+  date: '2017-07-20'
+  link: https://doi.org/gbtqb4
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/2058-9565/aa7ce8
+  title: Discrete-time reservoir engineering with entangled bath and stabilising squeezed
+    states
+  authors:
+  - Zibo Miao
+  - Alain Sarlette
+  publisher: Quantum Science and Technology
+  date: '2017-07-31'
+  link: https://doi.org/gs5zc3
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23919/ACC.2017.7962959
+  title: Pole placement approach to coherent passive reservoir engineering for storing
+    quantum information
+  authors:
+  - T. Nguyen
+  - Z. Miao
+  - Y. Pan
+  - N. H. Amini
+  - V. Ugrinovskii
+  - M. R. James
+  publisher: 2017 American Control Conference (ACC)
+  date: '2017-05-01'
+  link: https://doi.org/gs5zc4
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11768-017-7020-2
+  title: Pole placement approach to coherent passive reservoir engineering for storing
+    quantum information
+  authors:
+  - Thien Nguyen
+  - Zibo Miao
+  - Yu Pan
+  - Nina Amini
+  - Valery Ugrinovskii
+  - Matthew R. James
+  publisher: Control Theory and Technology
+  date: '2017-08-01'
+  link: https://doi.org/gs5zc5
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/aucc.2016.7868222
+  title: A reduced complexity min-plus method for synchronisation of qubits
+  authors:
+  - Zibo Miao
+  - Peter M. Dower
+  publisher: 2016 Australian Control Conference (AuCC)
+  date: '2016-11-01'
+  link: https://doi.org/gs5zc6
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/aucc.2016.7868180
+  title: 'Agreeing over quantum hybrid networks: Centralized and distributed solutions'
+  authors:
+  - ' Guodong Shi'
+  - ' Bo Li'
+  - ' Zibo Miao'
+  - Peter M. Dower
+  - Matthew R. James
+  publisher: 2016 Australian Control Conference (AuCC)
+  date: '2016-11-01'
+  link: https://doi.org/gs5zc7
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/chicc.2016.7554812
+  title: Coherent observer engineering for protecting quantum information
+  authors:
+  - Yu Pan
+  - Thien Nguyen
+  - Zibo Miao
+  - Nina Amini
+  - Valeri Ugrinovski
+  - Matthew James
+  publisher: 2016 35th Chinese Control Conference (CCC)
+  date: '2016-07-01'
+  link: https://doi.org/gs5zc8
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.automatica.2016.04.039
+  title: Coherent observers for linear quantum stochastic systems
+  authors:
+  - Zibo Miao
+  - Matthew R. James
+  - Ian R. Petersen
+  publisher: Automatica
+  date: '2016-09-01'
+  link: https://doi.org/f8xj4r
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1137/130931606
+  title: Physical Realizability and Preservation of Commutation and Anticommutation
+    Relations for $n$-Level Quantum Systems
+  authors:
+  - Luis A. Duffaut Espinosa
+  - Z. Miao
+  - I. R. Petersen
+  - V. Ugrinovskii
+  - M. R. James
+  publisher: SIAM Journal on Control and Optimization
+  date: '2016-01-01'
+  link: https://doi.org/gs5zc9
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/cca.2015.7320608
+  title: Direct and indirect couplings in the interconnection of open two level quantum
+    systems
+  authors:
+  - Zibo Miao
+  - Matthew R. James
+  publisher: 2015 IEEE Conference on Control Applications (CCA)
+  date: '2015-09-01'
+  link: https://doi.org/gs5zdb
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/acc.2015.7170714
+  title: Covariance matrix tracking coherent observers for linear quantum stochastic
+    systems
+  authors:
+  - Zibo Miao
+  - Michael R. Hush
+  - Matthew R. James
+  publisher: 2015 American Control Conference (ACC)
+  date: '2015-07-01'
+  link: https://doi.org/gs5zdc
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevA.92.012115
+  title: Coherently tracking the covariance matrix of an open quantum system
+  authors:
+  - Zibo Miao
+  - Michael R. Hush
+  - Matthew R. James
+  publisher: Physical Review A
+  date: '2015-07-20'
+  link: https://doi.org/gd7fc7
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1140/epjqt/s40507-015-0037-x
+  title: Interpolation approach to Hamiltonian-varying quantum systems and the adiabatic
+    theorem
+  authors:
+  - Yu Pan
+  - Zibo Miao
+  - Nina H Amini
+  - Valery Ugrinovskii
+  - Matthew R James
+  publisher: EPJ Quantum Technology
+  date: '2015-11-25'
+  link: https://doi.org/gkn5bj
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1140/epjqt/s40507-015-0028-y
+  title: On the generalization of linear least mean squares estimation to quantum
+    systems with non-commutative outputs
+  authors:
+  - Nina H Amini
+  - Zibo Miao
+  - Yu Pan
+  - Matthew R James
+  - Hideo Mabuchi
+  publisher: EPJ Quantum Technology
+  date: '2015-06-17'
+  link: https://doi.org/gs5zdd
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/cdc.2015.7403128
+  title: Pole placement design for quantum systems via coherent observers
+  authors:
+  - Zibo Miao
+  - Matthew R. James
+  - Valery A. Ugrinovskii
+  publisher: 2015 54th IEEE Conference on Decision and Control (CDC)
+  date: '2015-12-01'
+  link: https://doi.org/gs5zdf
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84964037996
+  title: Quantum observers for dissipative interacting qubits in a common environment
+  publisher: 2015 Australian Control Conference, AUCC 2015
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84964037996&partnerID=MN8TOARS
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AUCC.2014.7358650
+  title: Synchronisation of micro-mechanical oscillators inside one cavity using feedback
+    control
+  authors:
+  - Z. Miao
+  - M. Hosseini
+  - G. Guccione
+  - M. R. James
+  publisher: 2014 4th Australian Control Conference (AUCC)
+  date: '2014-11-01'
+  link: https://doi.org/gs5zdg
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.4884300
+  title: Heisenberg picture approach to the stability of quantum Markov systems
+  authors:
+  - Yu Pan
+  - Hadis Amini
+  - Zibo Miao
+  - John Gough
+  - Valery Ugrinovskii
+  - Matthew R. James
+  publisher: Journal of Mathematical Physics
+  date: '2014-06-01'
+  link: https://doi.org/f586tm
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/aucc.2013.6697323
+  title: Stability of quantum Markov systems via Lyapunov methods in the Heisenberg
+    picture
+  authors:
+  - Yu Pan
+  - Hadis Amini
+  - Zibo Miao
+  - John Gough
+  - Valery Ugrinovskii
+  - Matthew R. James
+  publisher: 2013 Australian Control Conference
+  date: '2013-11-01'
+  link: https://doi.org/gs5zdh
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/AUCC.2013.6697291
+  title: Coherent quantum observers for n-level quantum systems
+  authors:
+  - Z. Miao
+  - Luis A. Duffaut Espinosa
+  - I. R. Petersen
+  - V. Ugrinovskii
+  - M. R. James
+  publisher: 2013 Australian Control Conference
+  date: '2013-11-01'
+  link: https://doi.org/gs5zdj
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84883539378
+  title: On the preservation of commutation and anticommutation relations of n-level
+    quantum systems
+  publisher: Proceedings of the American Control Conference
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883539378&partnerID=MN8TOARS
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CDC.2013.6760154
+  title: Physical realizability conditions for mixed bilinear-linear quantum cascades
+    with pure field coupling
+  authors:
+  - Luis A. Duffaut Espinosa
+  - Z. Miao
+  - I. R. Petersen
+  - V. Ugrinovskii
+  - M. R. James
+  publisher: 52nd IEEE Conference on Decision and Control
+  date: '2013-12-01'
+  link: https://doi.org/gs5zdk
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84883541001
+  title: Physical realizability of multi-level quantum systems
+  publisher: 2012 2nd Australian Control Conference, AUCC 2012
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883541001&partnerID=MN8TOARS
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CDC.2012.6427023
+  title: Preservation of commutation relations and physical realizability of open
+    two-level quantum systems
+  authors:
+  - Luis A. Duffaut Espinosa
+  - Z. Miao
+  - I. R. Petersen
+  - V. Ugrinovskii
+  - M. R. James
+  publisher: 2012 IEEE 51st IEEE Conference on Decision and Control (CDC)
+  date: '2012-12-01'
+  link: https://doi.org/gs5zdm
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/cdc.2012.6426181
+  title: Quantum observer for linear quantum stochastic systems
+  authors:
+  - Zibo Miao
+  - Matthew R. James
+  publisher: 2012 IEEE 51st IEEE Conference on Decision and Control (CDC)
+  date: '2012-12-01'
+  link: https://doi.org/gkh5ng
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cja.2023.09.023
+  title: Fast fixed-time three-dimensional terminal guidance with non-concave trajectory
+    constraint
+  authors:
+  - Youmin GONG
+  - Yanning GUO
+  - Yueyong LYU
+  - Dongyu LI
+  - Guangfu MA
+  publisher: Chinese Journal of Aeronautics
+  date: '2023-09-01'
+  link: https://doi.org/gs5zdn
+  orcid: 0000-0002-1865-5414
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ast.2023.108303
+  title: Mars landing feedback guidance for non-concave trajectory construction
+  authors:
+  - Youmin Gong
+  - Yanning Guo
+  - Dongyu Li
+  - Guangfu Ma
+  publisher: Aerospace Science and Technology
+  date: '2023-06-01'
+  link: https://doi.org/gs5zdp
+  orcid: 0000-0002-1865-5414
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TAES.2022.3183961
+  title: Fixed-Time Planetary Landing Guidance With Unknown Disturbance and Thruster
+    Constraint
+  authors:
+  - Youmin Gong
+  - Yanning Guo
+  - Dongyu Li
+  - Guangfu Ma
+  - Minwen Guo
+  publisher: IEEE Transactions on Aerospace and Electronic Systems
+  date: '2023-02-01'
+  link: https://doi.org/gqqf9r
+  orcid: 0000-0002-1865-5414
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMECH.2022.3209037
+  title: "Corrigendum to \u201CBarrier Lyapunov Function-Based Planetary Landing Guidance\
+    \ for Hazardous Terrains\u201D"
+  authors:
+  - Youmin Gong
+  - Yanning Guo
+  - Guangfu Ma
+  - Yao Zhang
+  - Minwen Guo
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2022-10-01'
+  link: https://doi.org/gs5zdq
+  orcid: 0000-0002-1865-5414
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/rnc.6131
+  title: "Predefined\u2010time tracking control for high\u2010order nonlinear systems\
+    \ with control saturation"
+  authors:
+  - Youmin Gong
+  - Yanning Guo
+  - Dongyu Li
+  - Guangfu Ma
+  - Guangtao Ran
+  publisher: International Journal of Robust and Nonlinear Control
+  date: '2022-04-09'
+  link: https://doi.org/gs5zdr
+  orcid: 0000-0002-1865-5414
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.asr.2022.07.020
+  title: Multi-constrained feedback guidance for mars pinpoint soft landing using
+    time-varying sliding mode
+  authors:
+  - Youmin Gong
+  - Yanning Guo
+  - Yueyong Lyu
+  - Guangfu Ma
+  - Minwen Guo
+  publisher: Advances in Space Research
+  date: '2022-10-01'
+  link: https://doi.org/gs5zds
+  orcid: 0000-0002-1865-5414
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tmech.2021.3121434
+  title: Barrier Lyapunov Function-Based Planetary Landing Guidance for Hazardous
+    Terrains
+  authors:
+  - Youmin Gong
+  - Yanning Guo
+  - Guangfu Ma
+  - Yao Zhang
+  - Minwen Guo
+  publisher: IEEE/ASME Transactions on Mechatronics
+  date: '2022-10-01'
+  link: https://doi.org/gs5zdt
+  orcid: 0000-0002-1865-5414
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/taes.2021.3117094
+  title: Prescribed Performance-Based Powered Descent Guidance for Step-Shaped Hazardous
+    Terrains
+  authors:
+  - Youmin Gong
+  - Yanning Guo
+  - Guangfu Ma
+  - Yao Zhang
+  - Minwen Guo
+  publisher: IEEE Transactions on Aerospace and Electronic Systems
+  date: '2022-04-01'
+  link: https://doi.org/gs5zdv
+  orcid: 0000-0002-1865-5414
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ast.2020.106361
+  title: Mars entry guidance for mid-lift-to-drag ratio vehicle with control constraints
+  authors:
+  - Youmin Gong
+  - Yanning Guo
+  - Guangfu Ma
+  - Minwen Guo
+  publisher: Aerospace Science and Technology
+  date: '2020-12-01'
+  link: https://doi.org/gs5zdw
+  orcid: 0000-0002-1865-5414
+  plugin: orcid.py
+  file: orcid.yaml

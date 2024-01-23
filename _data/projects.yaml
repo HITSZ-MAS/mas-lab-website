@@ -1,47 +1,18 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: 2022 RoboMaster Intelligent UAV Championship
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/project/2022-rmuav.gif
+  link: https://github.com/HITSZ-MAS/RMUAV2022
+  description: Win the second prize in real-world competition.
   tags:
-    - resource
+    - Drone Racing
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Real-time Whole-body Motion Planning for Mobile Manipulators Using Environment-adaptive Search and Spatial-temporal Optimization
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/paper/2024/mobile-manipulator.gif
+  link: https://sysu-star.github.io/MOVE-Planner
+  description: Mobile manipulators have recently gained significant attention in the robotics community due to their superior potential in industrial and service applications. However, the high degree of freedom associated with mobile manipulatorsposes challenges in achieving realtime whole body motion planning. To bridge the gap, we present a motion planning method capable of generating high-quality, safe, agileand feasible trajectories for mobile manipulators in real time (ICRA 2024 Submission).
   tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - Mobile Manipulator
+    - Motion Planning

@@ -7,27 +7,23 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="jmei@hit.edu.cn"
+  link="jmei@hit.edu.cn"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(0755) 86102664"
+  link="+86-0755-86102664"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com.hk/maps/place/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6(%E6%B7%B1%E5%9C%B3)/@22.586345,113.9683681,15z/data=!4m2!3m1!1s0x0:0x44719e686b463d1d?sa=X&ved=2ahUKEwji4saJv9KCAxXJF4gKHZuoC7MQ_BJ6BAhNEAA&cshid=1700480585927273"
 %}
 
 {% include section.html %}
@@ -36,8 +32,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/HITSZ/HITSZ1.jpg"
+  caption="Harbin Institute of Technology, Shenzhen"
 %}
 
 {% endcapture %}
@@ -46,8 +42,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/HITSZ/HITSZ2.jpg"
+  caption="Harbin Institute of Technology, Shenzhen"
 %}
 
 {% endcapture %}
@@ -57,21 +53,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Harbin Institute of Technology, Shenzhen
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+School of Mechanical Engineering and Automation
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Multi-Agent System Lab
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}

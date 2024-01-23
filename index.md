@@ -1,30 +1,15 @@
 ---
 ---
 
-# Lab Website Template
+# MASLAB's Website
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
-
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+Welcome to Multi-Agent System Lab led by Prof. Guangfu Ma, Prof. Jie Mei, A.P. Zibo Miao and A.P. Youmin Gong. Our group is part of Harbin Institute of Technology, Shenzhen, School of Mechanical Engineering and Automation. Our research interests are in spacecraft attitude control, multi-agent systems, robotics and quantum control. If you are interested in joining our lab, please feel free to contact us.
 
 {% include section.html %}
 
 ## Highlights
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -39,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/paper/A-Unified-Framework-for-Adaptive-Leaderless-Consensus.png"
   link="research"
   title="Our Research"
   text=text
@@ -47,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 
 {%
   include button.html
@@ -62,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project/2022-rmuav.gif"
   link="projects"
   title="Our Projects"
   flip=true
@@ -71,8 +56,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 %}
 
 {% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -87,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/maslab/maslab3.jpg"
   link="team"
   title="Our Team"
   text=text
