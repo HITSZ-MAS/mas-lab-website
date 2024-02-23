@@ -3,8 +3,8 @@ run-name: on schedule
 
 on:
   schedule:
-    # weekly
-    - cron: "0 0 * * 1"
+    # annually on February 1st
+    - cron: "0 0 1 2 *"
 
   # run if user manually requests it
   workflow_dispatch:

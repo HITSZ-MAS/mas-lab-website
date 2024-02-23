@@ -7,7 +7,7 @@ alumni: false
 aliases:
   - Chengkai Wu
 links:
-  home-page: https://ck1201.github.io/
+  home-page: https://chengkaiwu.me/
   email: chengkaiwu12@gmail.com
   orcid: 0009-0002-6571-6512
   github: CK1201

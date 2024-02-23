@@ -47,7 +47,7 @@ Welcome to Multi-Agent System Lab led by Prof. Guangfu Ma, Prof. Jie Mei, A.P. Z
 
 {%
   include feature.html
-  image="images/project/2022-rmuav.gif"
+  image="images/project/RMUA2022.gif"
   link="projects"
   title="Our Projects"
   flip=true

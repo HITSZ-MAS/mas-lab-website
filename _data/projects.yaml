@@ -1,8 +1,8 @@
-- title: 2022 RoboMaster Intelligent UAV Championship
+- title: RoboMaster 2022-2023 University AI Challenge Competition
   subtitle: 
   group: featured
-  image: images/project/2022-rmuav.gif
-  link: https://github.com/HITSZ-MAS/RMUAV2022
+  image: images/project/RMUA2022.gif
+  link: https://github.com/HITSZ-MAS/RMUA2022
   description: Win the second prize in real-world competition.
   tags:
     - Drone Racing
@@ -10,9 +10,9 @@
 - title: Real-time Whole-body Motion Planning for Mobile Manipulators Using Environment-adaptive Search and Spatial-temporal Optimization
   subtitle: 
   group: featured
-  image: images/paper/2024/mobile-manipulator.gif
+  image: images/paper/2024/MOVE-Planner.gif
   link: https://sysu-star.github.io/MOVE-Planner
-  description: Mobile manipulators have recently gained significant attention in the robotics community due to their superior potential in industrial and service applications. However, the high degree of freedom associated with mobile manipulatorsposes challenges in achieving realtime whole body motion planning. To bridge the gap, we present a motion planning method capable of generating high-quality, safe, agileand feasible trajectories for mobile manipulators in real time (ICRA 2024 Submission).
+  description: MOVE-Planner presents a motion planning method capable of generating high-quality, safe, agile and feasible trajectories for mobile manipulators in real time. (ICRA 2024)
   tags:
     - Mobile Manipulator
     - Motion Planning
