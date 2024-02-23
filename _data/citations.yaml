@@ -256,6 +256,22 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:M7yex6snE4oC
+  title: Leaderless consensus for second-order inertia uncertain multi-agent systems
+    under directed graphs without relative velocity information
+  authors:
+  - K Tian
+  - Z Guo
+  - J Mei
+  - C Jiang
+  - G Ma
+  publisher: IEEE Transactions on Network Science and Engineering 8 (4), 3417-3429,
+    2021
+  date: '2021-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:M7yex6snE4oC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:kz9GbA2Ns4gC
   title: 'Not only look but infer: Multiple hypothesis clustering of data association
     inference for semantic SLAM'
@@ -281,22 +297,6 @@
   publisher: 49th IEEE Conference on Decision and Control (CDC), 3208-3213, 2010
   date: '2010-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Y5dfb0dijaUC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:M7yex6snE4oC
-  title: Leaderless consensus for second-order inertia uncertain multi-agent systems
-    under directed graphs without relative velocity information
-  authors:
-  - K Tian
-  - Z Guo
-  - J Mei
-  - C Jiang
-  - G Ma
-  publisher: IEEE Transactions on Network Science and Engineering 8 (4), 3417-3429,
-    2021
-  date: '2021-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:M7yex6snE4oC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -483,6 +483,43 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:S16KYo8Pm5AC
+  title: Egocentric Two-Frame Pedestrian Trajectory Prediction Algorithm Based on
+    a Panoramic Camera
+  authors:
+  - J Long
+  - J Mei
+  - G Ma
+  publisher: IEEE Transactions on Instrumentation and Measurement 72, 1-13, 2022
+  date: '2022-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:S16KYo8Pm5AC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:VaXvl8Fpj5cC
+  title: Consensus of Uncertain Heterogeneous Multi-Agent Systems Under a Directed
+    Graph
+  authors:
+  - K Tian
+  - J Mei
+  publisher: 2020 Chinese Automation Congress (CAC), 6822-6826, 2020
+  date: '2020-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:VaXvl8Fpj5cC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:g3aElNc5_aQC
+  title: Adaptive consensus for second-order uncertain multi-agent systems under a
+    directed graph
+  authors:
+  - C Jiang
+  - J Mei
+  publisher: 2018 Chinese Control And Decision Conference (CCDC), 1335-1340, 2018
+  date: '2018-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:g3aElNc5_aQC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:EYYDruWGBe4C
   title: Adaptive group consensus for networked Euler-Lagrange systems under a directed
     graph without relative velocity information
@@ -507,6 +544,19 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:Ug5p-4gJ2f0C
+  title: Scaled Position Consensus of High-Order Uncertain Multiagent Systems Over
+    Switching Directed Graphs
+  authors:
+  - J Mei
+  - K Tian
+  - G Ma
+  publisher: IEEE Transactions on Cybernetics, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Ug5p-4gJ2f0C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:Dip1O2bNi0gC
   title: Distributed Constrained Consensus of Multi-Agent Systems With Uncertainties
     and Disturbances Under Switching Directed Graphs
@@ -521,19 +571,6 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:S16KYo8Pm5AC
-  title: Egocentric Two-Frame Pedestrian Trajectory Prediction Algorithm Based on
-    a Panoramic Camera
-  authors:
-  - J Long
-  - J Mei
-  - G Ma
-  publisher: IEEE Transactions on Instrumentation and Measurement 72, 1-13, 2022
-  date: '2022-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:S16KYo8Pm5AC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:oNZyr7d5Mn4C
   title: A Cooperative Kalman Consensus Filter via Indirectly State Vector Fusion
   authors:
@@ -544,18 +581,6 @@
   publisher: 2021 40th Chinese Control Conference (CCC), 5466-5471, 2021
   date: '2021-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:oNZyr7d5Mn4C
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:VaXvl8Fpj5cC
-  title: Consensus of Uncertain Heterogeneous Multi-Agent Systems Under a Directed
-    Graph
-  authors:
-  - K Tian
-  - J Mei
-  publisher: 2020 Chinese Automation Congress (CAC), 6822-6826, 2020
-  date: '2020-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:VaXvl8Fpj5cC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -581,18 +606,6 @@
   publisher: 2018 37th Chinese Control Conference (CCC), 7177-7182, 2018
   date: '2018-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:tYavs44e6CUC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:g3aElNc5_aQC
-  title: Adaptive consensus for second-order uncertain multi-agent systems under a
-    directed graph
-  authors:
-  - C Jiang
-  - J Mei
-  publisher: 2018 Chinese Control And Decision Conference (CCDC), 1335-1340, 2018
-  date: '2018-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:g3aElNc5_aQC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -736,19 +749,6 @@
   publisher: Systems & Control Letters 181, 105628, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:i2xiXl-TujoC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:Ug5p-4gJ2f0C
-  title: Scaled Position Consensus of High-Order Uncertain Multiagent Systems Over
-    Switching Directed Graphs
-  authors:
-  - J Mei
-  - K Tian
-  - G Ma
-  publisher: IEEE Transactions on Cybernetics, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Ug5p-4gJ2f0C
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -909,6 +909,21 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: doi:10.1109/TAC.2023.3332009
+  title: Fully Distributed Consensus of Multiple Euler-Lagrange Systems under Switching
+    Directed Graphs Using Only Position Measurements
+  authors:
+  - Xiangzheng Meng
+  - Jie Mei
+  - Zibo Miao
+  - Aiguo Wu
+  - Guangfu Ma
+  publisher: IEEE Transactions on Automatic Control
+  date: '2024-01-01'
+  link: https://doi.org/gs5zcz
+  orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/qute.202200165
   title: Cooperation between Coherent Control and Noises in Quantum Metrology
   authors:
@@ -946,21 +961,6 @@
   publisher: IET Control Theory &amp; Applications
   date: '2022-10-13'
   link: https://doi.org/gs5zcx
-  orcid: 0000-0001-9766-7837
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/TAC.2023.3332009
-  title: Fully Distributed Consensus of Multiple Euler-Lagrange Systems under Switching
-    Directed Graphs Using Only Position Measurements
-  authors:
-  - Xiangzheng Meng
-  - Jie Mei
-  - Zibo Miao
-  - Aiguo Wu
-  - Guangfu Ma
-  publisher: IEEE Transactions on Automatic Control
-  date: '2023-01-01'
-  link: https://doi.org/gs5zcz
   orcid: 0000-0001-9766-7837
   plugin: orcid.py
   file: orcid.yaml
@@ -1305,6 +1305,22 @@
   date: '2012-12-01'
   link: https://doi.org/gkh5ng
   orcid: 0000-0001-9766-7837
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TCSII.2024.3359516
+  title: Dynamic Event-Triggered Filtering for Nonlinear MJSs With Application to
+    Tunnel Diode Circuits
+  authors:
+  - Guangtao Ran
+  - Yanning Guo
+  - Youmin Gong
+  - Rathinasamy Sakthivel
+  - Jian Liu
+  - Chunsong Han
+  publisher: 'IEEE Transactions on Circuits and Systems II: Express Briefs'
+  date: '2024-01-01'
+  link: https://doi.org/gtgw4x
+  orcid: 0000-0002-1865-5414
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.cja.2023.09.023
