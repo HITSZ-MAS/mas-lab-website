@@ -317,20 +317,6 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:KlAtU1dfN6UC
-  title: Containment control for networked unknown Lagrangian systems with multiple
-    dynamic leaders under a directed graph
-  authors:
-  - J Mei
-  - W Ren
-  - B Li
-  - G Ma
-  publisher: 2013 American Control Conference, 522-527, 2013
-  date: '2013-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:KlAtU1dfN6UC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:LkGwnXOMwfcC
   title: Containment control for multiple unknown second-order nonlinear systems under
     a directed graph based on neural networks
@@ -351,6 +337,20 @@
   publisher: 2015 Chinese Automation Congress (CAC), 1064-1068, 2015
   date: '2015-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:7T2F9Uy0os0C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:KlAtU1dfN6UC
+  title: Containment control for networked unknown Lagrangian systems with multiple
+    dynamic leaders under a directed graph
+  authors:
+  - J Mei
+  - W Ren
+  - B Li
+  - G Ma
+  publisher: 2013 American Control Conference, 522-527, 2013
+  date: '2013-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:KlAtU1dfN6UC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -411,17 +411,6 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:Tyk-4Ss8FVUC
-  title: Robust Adaptive Control of Relative Orbit for Nearby Spacecraft
-  authors:
-  - MEI Jie
-  - MA Guang-fu
-  publisher: Journal of Astronautics 10, 009, 2010
-  date: '2010-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Tyk-4Ss8FVUC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:SpbeaW3--B0C
   title: Adaptive Bipartite Leaderless Consensus of Multi-Agent Systems with Uncertain
     MIMO Dynamics over a Signed Directed Graph
@@ -431,6 +420,17 @@
   publisher: 'IEEE Transactions on Circuits and Systems II: Express Briefs, 2023'
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:SpbeaW3--B0C
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:Tyk-4Ss8FVUC
+  title: Robust Adaptive Control of Relative Orbit for Nearby Spacecraft
+  authors:
+  - MEI Jie
+  - MA Guang-fu
+  publisher: Journal of Astronautics 10, 009, 2010
+  date: '2010-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:Tyk-4Ss8FVUC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -457,8 +457,8 @@
   plugin: google-scholar.py
   file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:b1wdh0AR-JQC
-  title: Decentralized Event-triggered Communication for Consensus of Uncertain Multi-agent
-    Systems
+  title: Decentralized event-triggered communication for consensus of uncertain multi-agent
+    systems
   authors:
   - Q Bai
   - J Mei
@@ -484,8 +484,8 @@
   plugin: google-scholar.py
   file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:S16KYo8Pm5AC
-  title: Egocentric Two-Frame Pedestrian Trajectory Prediction Algorithm Based on
-    a Panoramic Camera
+  title: Egocentric two-frame pedestrian trajectory prediction algorithm based on
+    a panoramic camera
   authors:
   - J Long
   - J Mei
@@ -497,8 +497,8 @@
   plugin: google-scholar.py
   file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:VaXvl8Fpj5cC
-  title: Consensus of Uncertain Heterogeneous Multi-Agent Systems Under a Directed
-    Graph
+  title: Consensus of uncertain heterogeneous multi-agent systems under a directed
+    graph
   authors:
   - K Tian
   - J Mei
@@ -541,6 +541,20 @@
   publisher: Proceedings of the 30th Chinese Control Conference, 4900-4905, 2011
   date: '2011-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:W7OEmFMy1HYC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:i2xiXl-TujoC
+  title: Bipartite leaderless position consensus of heterogeneous uncertain multi-agent
+    systems under switching directed graphs
+  authors:
+  - C Tian
+  - K Tian
+  - J Mei
+  - G Ma
+  publisher: Systems & Control Letters 181, 105628, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:i2xiXl-TujoC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -735,20 +749,6 @@
   publisher: Optimal Control Applications and Methods 44 (6), 3099-3113, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:HbR8gkJAVGIC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:i2xiXl-TujoC
-  title: Bipartite leaderless position consensus of heterogeneous uncertain multi-agent
-    systems under switching directed graphs
-  authors:
-  - C Tian
-  - K Tian
-  - J Mei
-  - G Ma
-  publisher: Systems & Control Letters 181, 105628, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:i2xiXl-TujoC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
@@ -1307,6 +1307,21 @@
   orcid: 0000-0001-9766-7837
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.cja.2023.09.023
+  title: Fast fixed-time three-dimensional terminal guidance with non-concave trajectory
+    constraint
+  authors:
+  - Youmin GONG
+  - Yanning GUO
+  - Yueyong LYU
+  - Dongyu LI
+  - Guangfu MA
+  publisher: Chinese Journal of Aeronautics
+  date: '2023-09-01'
+  link: https://doi.org/gs5zdn
+  orcid: 0000-0002-1865-5414
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TCSII.2024.3359516
   title: Dynamic Event-Triggered Filtering for Nonlinear MJSs With Application to
     Tunnel Diode Circuits
@@ -1320,21 +1335,6 @@
   publisher: 'IEEE Transactions on Circuits and Systems II: Express Briefs'
   date: '2024-01-01'
   link: https://doi.org/gtgw4x
-  orcid: 0000-0002-1865-5414
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.cja.2023.09.023
-  title: Fast fixed-time three-dimensional terminal guidance with non-concave trajectory
-    constraint
-  authors:
-  - Youmin GONG
-  - Yanning GUO
-  - Yueyong LYU
-  - Dongyu LI
-  - Guangfu MA
-  publisher: Chinese Journal of Aeronautics
-  date: '2023-09-01'
-  link: https://doi.org/gs5zdn
   orcid: 0000-0002-1865-5414
   plugin: orcid.py
   file: orcid.yaml
