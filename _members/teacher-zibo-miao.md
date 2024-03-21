@@ -1,7 +1,7 @@
 ---
 name: Zibo Miao 苗子博
 image: images/member/zibomiao.png
-role: prof
+role: assocprof
 alumni: false
 aliases:
   - Zibo Miao
