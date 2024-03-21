@@ -12,7 +12,7 @@ nav:
 ## Teacher
 
 {% include list.html data="members" component="portrait" filters="role: prof, alumni: false" %}
-{% include list.html data="members" component="portrait" filters="role: aprof, alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: assocprof, alumni: false" %}
 {% include list.html data="members" component="portrait" filters="role: ap, alumni: false" %}
 
 {% include section.html %}

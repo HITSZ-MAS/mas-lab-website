@@ -6,7 +6,7 @@ prof:
   icon: fa-solid fa-microscope
   description: Professor
 
-aprof:
+assocprof:
   icon: fa-solid fa-microscope
   description: Associate Professor
 
