@@ -3,7 +3,7 @@ name: Yanjin Liu 刘炎瑾
 image: images/photo.jpg
 role: graduate
 date: '2021-09-01'
-alumni: false
+alumni: true
 aliases:
   - Yanjin Liu
 links:

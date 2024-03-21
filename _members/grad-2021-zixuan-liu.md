@@ -3,7 +3,7 @@ name: Zixuan Liu 刘梓璇
 image: images/photo.jpg
 role: graduate
 date: '2021-09-01'
-alumni: false
+alumni: true
 aliases:
   - Zixuan Liu
   - Z Liu

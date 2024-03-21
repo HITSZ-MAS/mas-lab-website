@@ -3,7 +3,7 @@ name: Jiajia Liu 刘佳佳
 image: images/photo.jpg
 role: graduate
 date: '2021-09-01'
-alumni: false
+alumni: true
 aliases:
   - Jiajia Liu
 links:

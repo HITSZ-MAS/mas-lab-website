@@ -3,7 +3,7 @@ name: Feng Tu 涂锋
 image: images/photo.jpg
 role: graduate
 date: '2021-09-01'
-alumni: false
+alumni: true
 aliases:
   - Feng Tu
 links:
