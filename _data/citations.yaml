@@ -571,6 +571,19 @@
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: tyQm5IkAAAAJ:XoXfffV-tXoC
+  title: Matrix-Scaled Consensus for Second-Order Uncertain Multi-Agent Systems Under
+    a Directed Graph
+  authors:
+  - S Chen
+  - K Tian
+  - J Mei
+  publisher: 2023 42nd Chinese Control Conference (CCC), 6111-6116, 2023
+  date: '2023-01-01'
+  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:XoXfffV-tXoC
+  gsid: tyQm5IkAAAAJ
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: tyQm5IkAAAAJ:Dip1O2bNi0gC
   title: Distributed Constrained Consensus of Multi-Agent Systems With Uncertainties
     and Disturbances Under Switching Directed Graphs
@@ -749,19 +762,6 @@
   publisher: Optimal Control Applications and Methods 44 (6), 3099-3113, 2023
   date: '2023-01-01'
   link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:HbR8gkJAVGIC
-  gsid: tyQm5IkAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: tyQm5IkAAAAJ:XoXfffV-tXoC
-  title: Matrix-Scaled Consensus for Second-Order Uncertain Multi-Agent Systems Under
-    a Directed Graph
-  authors:
-  - S Chen
-  - K Tian
-  - J Mei
-  publisher: 2023 42nd Chinese Control Conference (CCC), 6111-6116, 2023
-  date: '2023-01-01'
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tyQm5IkAAAAJ&pagesize=100&citation_for_view=tyQm5IkAAAAJ:XoXfffV-tXoC
   gsid: tyQm5IkAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
