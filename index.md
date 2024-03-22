@@ -3,7 +3,7 @@
 
 # MASLAB's Website
 
-Welcome to Multi-Agent System Lab led by Prof. Guangfu Ma, Prof. Jie Mei, A.P. Zibo Miao and A.P. Youmin Gong. Our group is part of Harbin Institute of Technology, Shenzhen, School of Mechanical Engineering and Automation. Our research interests are in spacecraft attitude control, multi-agent systems, robotics and quantum control. If you are interested in joining our lab, please feel free to contact us.
+Welcome to Multi-Agent System Lab led by Prof. Guangfu Ma, Prof. Jie Mei, Assoc.Prof. Zibo Miao and A.P. Youmin Gong. Our group is part of Harbin Institute of Technology, Shenzhen, School of Mechanical Engineering and Automation. Our research interests are in spacecraft attitude control, multi-agent systems, robotics and quantum control. If you are interested in joining our lab, please feel free to contact us.
 
 {% include section.html %}
 
